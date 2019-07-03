@@ -2,8 +2,8 @@
 
 #include "SimpleFactory.h"
 
-#include "FeatureTelephone.h"
-#include "SmartTelephone.h"
+#include "product/FeatureTelephone.h"
+#include "product/SmartTelephone.h"
 
 
 namespace factory
